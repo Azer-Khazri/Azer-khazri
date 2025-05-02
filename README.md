@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Azer Khazri
 
-<!--
-**Azer-Khazri/Azer-khazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en 2ᵉ année Informatique de Gestion à l'ESSECT, passionné par le développement logiciel et les technologies.
 
-Here are some ideas to get you started:
+💻 Langages que j’utilise :
+- Java, C, C#, VB.NET, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Outils & Technologies :
+- Visual Studio Code
+- MySQL
+- Git & GitHub
+
+🚀 En cours d’apprentissage :
+- Node.js
+
+🎯 Objectif : 
+Développer mes compétences, contribuer à des projets open source, et évoluer dans le monde professionnel du développement.
+
+📫 Me retrouver sur [LinkedIn](https://www.linkedin.com/in/azer-khazri-1614b62a7/)
